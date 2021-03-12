@@ -33,6 +33,7 @@ echo "<br />";
 
 $laptop_C= new laptop("C", "Lenovo");
 
+//menampilkan
 echo $laptop_C->Matikan_laptop(); echo $laptop_C->Hidupkan_laptop();
 
 ?>
