@@ -36,5 +36,5 @@ echo $hp->getInfoProduk();
 /*
 Penjelasan :
 Karena property pada kelas parent (Tablet) memiliki Visibility public, jadi untuk mengakses propery parent pada kelas child (Handphone) dapat dilakukan secara langsung dari dalam maupun luar kelas child (Handphone).
-Karena Property dengan Visibility public dapat diakses dari mana saja.
+Property dengan Visibility public dapat diakses dari mana saja.
 */

@@ -61,5 +61,5 @@ echo $hp->getInfoProduk();
 Penjelasan :
 Karena property pada kelas parent (Tablet) memiliki Visibility protected, jadi untuk mengakses propery parent pada
 kelas child (Handphone) hanya dapat dilakukan secara langsung dari dalam kelas child (Handphone).
-Karena Property dengan Visibility protected tetap bisa dikases oleh child class, tapi tetap tidak dapat diakses di luar kelas yang tidak termasuk child class.
+Property dengan Visibility protected tetap bisa dikases oleh child class, tapi tidak dapat diakses di luar kelas yang tidak termasuk child class.
 */
