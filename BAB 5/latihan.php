@@ -66,9 +66,9 @@ $objek1 = new Persegi();
 $objek2 = new Segitiga();
 $objek3 = new Lingkaran();
 
-echo "<b>Jika luas sisi = 5</b><hr>";
-echo "Luas Persegi = {$objek1->hitungLuasPersegi(5)}";
+echo "<b>Jika luas sisi = 3</b><hr>";
+echo "Luas Persegi = {$objek1->hitungLuasPersegi(3)}";
 echo '<br>';
-echo "Luas Segitiga = {$objek2->hitungLuasSegitiga(5)}";
+echo "Luas Segitiga = {$objek2->hitungLuasSegitiga(3)}";
 echo '<br>';
-echo "Luas Lingkaran = {$objek3->hitungLuasLingkaran(5)}";
+echo "Luas Lingkaran = {$objek3->hitungLuasLingkaran(3)}";
