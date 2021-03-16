@@ -7,8 +7,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>E31191821</title>
 </head>
+
 <body>
-    <h2>Hello world CI!</h2>
-    <h3>Menggunakan Controller, Model dan View!</h3>
+
+    <h2>Mengirim data dari controller ke View</h2>
+
+    <!-- Memanggil variabel 1 -->
+    variabel1: <?= $variabel1; ?><br>
+
+    <!-- Memanggil variabel 2 -->
+    variabel2: <?= $variabel2; ?>
+
 </body>
+
 </html>
