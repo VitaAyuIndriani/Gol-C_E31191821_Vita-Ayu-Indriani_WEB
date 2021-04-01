@@ -6,4 +6,4 @@ class Buku {
            $penerbit, 
            $tahun_terbit, 
            $cetakan;
-}
+} 
