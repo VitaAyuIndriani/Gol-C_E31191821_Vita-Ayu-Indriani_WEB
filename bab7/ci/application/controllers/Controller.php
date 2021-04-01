@@ -9,4 +9,4 @@ class Controller extends CI_Controller{
 		echo "<br>Function yang dipanggil adalah kontrol";
 	}
 }
-?>
+?> 
